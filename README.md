@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет, меня зовут Юрий.
 
-<!--
-**yuri586/yuri586** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я занимаюсь Python-разработкой и автоматизацией — пишу Telegram-ботов, подключаю API, настраиваю инфраструктуру. Больше двадцати лет служил священником — потом сменил путь и пришёл в IT. Умею разговаривать с людьми, держать ответственность и не бросать дело на полпути.
 
-Here are some ideas to get you started:
+## 💻 С чем работаю
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** Python 3, FastAPI
+- **Telegram-боты:** aiogram 3, FSM, сложные пользовательские сценарии
+- **Базы данных:** SQLite, SQLAlchemy Async
+- **Инфраструктура:** Linux, Bash, Git, GitHub, S3-хранилища (Timeweb Cloud)
+- **Web и интеграции:** Astro, Cloudflare Pages, YooKassa API, обработка CSV
+
+## 🚀 Что уже сделал
+
+### Telegram-бот для записи клиентов
+Шаблон на aiogram 3 с асинхронным SQLAlchemy, профилями пользователей и логикой бронирования слотов.
+
+### Сайт писателя с онлайн-продажей книг
+Делал с нуля: вёрстка на Astro, деплой через Cloudflare Pages, защищённый доступ к тексту и полноценная оплата через YooKassa — с вебхуками и тестовыми платежами.
+
+### Скрипты автоматизации
+Несколько Python-скриптов для обработки файлов, парсинга CSV и избавления от рутинных ручных операций.
+
+## 🎯 Что ищу сейчас
+
+Открыт к **фрилансу, субподряду и backend-позициям** — особенно там, где нужно разгрузить основную команду: починить бота, написать парсер, прикрутить API или привести в порядок старый код.
+
+Пишу аккуратно, укладываюсь в сроки и всегда на связи.
+
+📫 **Написать мне:** [Telegram](https://t.me/ychibirev)
