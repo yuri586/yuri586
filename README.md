@@ -32,3 +32,16 @@
 
 
 📫 **Контакты:** [Telegram](https://t.me/ychibirev)
+
+
+## 🤖 Telegram Bot Projects
+
+### [Telegram Bot Template](https://github.com/yuri586/telegram-bot-template)
+Reusable aiogram 3 Telegram bot template with async SQLAlchemy, Alembic migrations, plugin architecture, Telegram CMS, demo profiles, and optional booking / lead modules.
+
+### [Telegram Booking Bot](https://github.com/yuri586/telegram-booking-bot)
+Standalone appointment booking bot built from the base template: services, time slots, booking flow, admin management, notifications, CSV export, and demo profiles.
+
+### [Telegram Lead Bot](https://github.com/yuri586/telegram-lead-bot)
+Standalone lead capture bot built from the base template: request type selection, contact collection, admin notifications, lead statuses, CSV export, Telegram CMS, and demo profiles.
+
