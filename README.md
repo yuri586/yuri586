@@ -6,7 +6,7 @@
 
 ## 💻 С чем работаю
 
-* **Backend:** Python 3, FastAPI
+* **Backend:** Python 3
 * **Telegram-боты:** aiogram 3, FSM, многошаговые пользовательские сценарии
 * **Базы данных:** SQLite, SQLAlchemy Async, Cloudflare D1
 * **Инфраструктура:** Linux, Bash, Git, GitHub, S3-хранилища
