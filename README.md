@@ -45,3 +45,13 @@ Standalone appointment booking bot built from the base template: services, time 
 ### [Telegram Lead Bot](https://github.com/yuri586/telegram-lead-bot)
 Standalone lead capture bot built from the base template: request type selection, contact collection, admin notifications, lead statuses, CSV export, Telegram CMS, and demo profiles.
 
+
+
+### Telegram Bot Portfolio
+
+Три связанных проекта на aiogram 3, показывающие путь от переиспользуемого шаблона к прикладным Telegram-ботам:
+
+- [Telegram Bot Template](https://github.com/yuri586/telegram-bot-template) — базовый шаблон с async SQLAlchemy, Alembic, plugin architecture, Telegram CMS и demo profiles.
+- [Telegram Booking Bot](https://github.com/yuri586/telegram-booking-bot) — отдельный бот для записи клиентов: услуги, свободные слоты, создание записи, уведомления, админка и CSV export.
+- [Telegram Lead Bot](https://github.com/yuri586/telegram-lead-bot) — отдельный бот для сбора заявок: выбор типа обращения, сбор контакта, уведомления администратору, статусы лидов и CSV export.
+
