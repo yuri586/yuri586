@@ -7,11 +7,11 @@
 ## 💻 С чем работаю
 
 * **Backend:** Python 3, FastAPI
-* **Telegram-боты:** aiogram 3, FSM, сложные пользовательские сценарии
+* **Telegram-боты:** aiogram 3, FSM, многошаговые пользовательские сценарии
 * **Базы данных:** SQLite, SQLAlchemy Async, Cloudflare D1
 * **Инфраструктура:** Linux, Bash, Git, GitHub, S3-хранилища
 * **Web и интеграции:** Astro, Cloudflare Pages, YooKassa API, Unisender Go, обработка CSV
-* **Автоматизация:** парсинг, работа с файлами, API-интеграции, служебные скрипты
+* **Автоматизация:** парсинг, работа с файлами, API-интеграции, Bash/systemd-скрипты для Linux
 
 ## 🚀 Что уже сделал
 
@@ -23,13 +23,15 @@
 
 ### Writer Book Sales Showcase
 
-Сделал production-сайт писателя с онлайн-продажей книги: лендинг, страница книги, оплата через YooKassa, webhook flow, выдача доступа, magic-link вход и защищённое чтение книги в браузере.
+Сделал сайт писателя с архитектурой онлайн-продажи книги: лендинг, страница книги, оплата через YooKassa, webhook flow, выдача доступа, magic-link вход и защищённое чтение книги в браузере.
 
 Публичный репозиторий содержит безопасную showcase-витрину архитектуры без секретов, платного контента и production-конфигурации.
 
-### Скрипты автоматизации
+### Linux-автоматизация и системные инструменты
 
-Пишу Python-скрипты для обработки файлов, парсинга CSV, работы с данными и избавления от рутинных ручных операций.
+Оформил отдельный Bash/systemd-проект для Apple iMac 27-inch Mid 2011 (`iMac12,2`) на Linux Mint: управление вентиляторами через `applesmc`, проверка датчиков через `lm-sensors`, автозапуск службы, восстановление после sleep и терминальный дашборд температур/RPM.
+
+Этот проект показывает практическую работу с Linux, железом, systemd, диагностикой и аккуратной документацией.
 
 ## 🎯 Что ищу сейчас
 
@@ -47,8 +49,12 @@
 
 ### 🌐 Web / Payments Showcase
 
-* [Writer Book Sales Showcase](https://github.com/yuri586/writer-book-sales-showcase) — публичная showcase-витрина production-сайта писателя с описанием архитектуры продажи книги, оплаты через YooKassa, webhook flow, выдачи доступа, magic-link входа и защищённого чтения в браузере.
+* [Writer Book Sales Showcase](https://github.com/yuri586/writer-book-sales-showcase) — публичная showcase-витрина сайта писателя с описанием архитектуры продажи книги, оплаты через YooKassa, webhook flow, выдачи доступа, magic-link входа и защищённого чтения в браузере.
 * [Live site](https://dmitriychibirev.ru/) — работающий сайт книги.
+
+### 🛠 Linux / Automation
+
+* [iMac Linux Fan Control](https://github.com/yuri586/imac-linux-fan-control) — Bash/systemd-инструмент для Apple iMac 27-inch Mid 2011 (`iMac12,2`) на Linux Mint: проверка окружения, работа с `lm-sensors` и `applesmc`, управление вентиляторами, автозапуск службы, дашборд температур/RPM и восстановление после sleep.
 
 ## 📫 Контакты
 
